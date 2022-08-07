@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "yarn": "^1.22.19",
+    "yarn-install": "^1.0.0"
+  }
+}
